@@ -21,5 +21,5 @@ def count_chars(s):
     print("Spaces:", spaces)
     print("Others:", others)
 
-input_string = "Wassup mga pipol tara dasal"
+input_string = input("Enter a string: ")
 count_chars(input_string)
