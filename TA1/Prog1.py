@@ -1,3 +1,4 @@
+#A program that will display the number of vowels, consonants, spaces, and other characters given an input string
 def count_chars(s):
     vowels = "aeiouAEIOU"
     consonants = "bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ"
